@@ -1,0 +1,5 @@
+C:\Users\dp_samsonov\Documents\Visual Studio 2015\Projects\AppVerAutoInc\AppVerAutoInc\bin\Release\AppVerAutoInc.exe
+C:\Users\dp_samsonov\Documents\Visual Studio 2015\Projects\AppVerAutoInc\AppVerAutoInc\bin\Release\AppVerAutoInc.pdb
+C:\Users\dp_samsonov\Documents\Visual Studio 2015\Projects\AppVerAutoInc\AppVerAutoInc\obj\Release\AppVerAutoInc.exe
+C:\Users\dp_samsonov\Documents\Visual Studio 2015\Projects\AppVerAutoInc\AppVerAutoInc\obj\Release\AppVerAutoInc.pdb
+C:\Users\dp_samsonov\Documents\Visual Studio 2015\Projects\AppVerAutoInc\AppVerAutoInc\obj\Release\AppVerAutoInc.csprojResolveAssemblyReference.cache

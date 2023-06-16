@@ -1,0 +1,4 @@
+C:\Users\dp_samsonov\Documents\Visual Studio 2015\Projects\AppVerAutoInc\AppVerAutoInc\bin\Debug\AppVerAutoInc.exe
+C:\Users\dp_samsonov\Documents\Visual Studio 2015\Projects\AppVerAutoInc\AppVerAutoInc\bin\Debug\AppVerAutoInc.pdb
+C:\Users\dp_samsonov\Documents\Visual Studio 2015\Projects\AppVerAutoInc\AppVerAutoInc\obj\Debug\AppVerAutoInc.exe
+C:\Users\dp_samsonov\Documents\Visual Studio 2015\Projects\AppVerAutoInc\AppVerAutoInc\obj\Debug\AppVerAutoInc.pdb
